@@ -52,6 +52,7 @@ It is a conceptually simple, flexible, and general framework for object instance
 This is an implementation of Mask R-CNN on Python 3, Keras, and TensorFlow. The model generates bounding boxes and segmentation masks for each instance of an object in the image. It's based on Feature Pyramid Network (FPN) and a ResNet101 backbone.
 
 Acknowledgements:
+
 •	Thank you to my Prof. Pantelis Monogioudis, for guiding our project.
 
 •	Thank you to the National Institutes of Health Clinical Center for publicly providing the Chest X-Ray dataset.
