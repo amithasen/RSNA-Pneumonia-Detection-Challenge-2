@@ -4,14 +4,19 @@ RSNA Pneumonia Detection Challenge
 
 Submitted to:
 Pantelis Monogioudis
+
 (Head of the Applied Machine Learning Department @ Bell Labs.
 Adjunct Prof. @NJIT)
 
 
 Submitted by:
+
 •	Atul Avijeet
+
 •	Saurav Harjai
+
 •	Subhasree Kurusamy
+
 
 Overview:
 To build an algorithm to detect a visual signal for pneumonia in medical images. Specifically, your algorithm needs to automatically locate lung opacities on chest radiographs.
