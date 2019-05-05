@@ -24,13 +24,21 @@ Pneumonia is an infection that inflames the air sacs in one or both lungs. The a
 Pneumonia can range in seriousness from mild to life-threatening. It is most serious for infants and young children, people older than age 65, and people with health problems or weakened immune systems.
 
 What are symptoms of Pneumonia?
+
 •	Chest pain when you breathe or cough
+
 •	Confusion or changes in mental awareness (in adults age 65 and older)
+
 •	Cough, which may produce phlegm
+
 •	Fatigue
+
 •	Fever, sweating and shaking chills
+
 •	Lower than normal body temperature (in adults older than age 65 and people with weak immune systems)
+
 •	Nausea, vomiting or diarrhea
+
 •	Shortness of breath
 
 
