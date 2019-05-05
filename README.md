@@ -51,6 +51,42 @@ Mask R-CNN
 It is a conceptually simple, flexible, and general framework for object instance segmentation. The approach efficiently detects objects in an image while simultaneously generating a high-quality segmentation mask for each instance. The method, called Mask R-CNN, extends Faster R-CNN by adding a branch for predicting an object mask in parallel with the existing branch for bounding box recognition. Mask R-CNN is simple to train and adds only a small overhead to Faster R-CNN, running at 5 fps. Moreover, Mask R-CNN is easy to generalize to other tasks, e.g., allowing us to estimate human poses in the same framework. This show top results in all three tracks of the COCO suite of challenges, including instance segmentation, bounding-box object detection, and person keypoint detection. Without bells and whistles, Mask R-CNN outperforms all existing, single-model entries on every task, including the COCO 2016 challenge winners. 
 This is an implementation of Mask R-CNN on Python 3, Keras, and TensorFlow. The model generates bounding boxes and segmentation masks for each instance of an object in the image. It's based on Feature Pyramid Network (FPN) and a ResNet101 backbone.
 
+
+Execution: 
+
+•	Step 1:
+In Google Colab, select the GPU and hosted runtime.
+
+•	Step 2:
+Then import and install the required directories.
+
+•	Step 3:
+Install Kaggle API
+
+•	Step 4:
+Download and Unzip the data.
+
+•	Step 5: 
+Set up functions and Clone Mask RCNN
+•	Step 6:
+Examine the annotation data, parse the dataset, and view dicom fields
+
+•	Step 7:
+Split the data into training and validation datasets
+
+•	Step 8:
+Create and prepare the training dataset
+
+•	Step 9:
+Train the model and select the number of Epoch
+
+•	Step 10:
+Compare predicted box to the expected value
+
+•	Step 11:
+Final steps - Create the submission file
+
+
 Acknowledgements:
 
 •	Thank you to my Prof. Pantelis Monogioudis, for guiding our project.
